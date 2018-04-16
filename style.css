@@ -1,0 +1,32 @@
+/*
+ Theme Name:   Hatogkrøller custom Nirvana Child
+ Theme URI:    http://hatogkroller.nl
+ Description:  Hatogkrøller custom Nirvana Child
+ Author:       Bart Volbeda
+ Author URI:   http://hatogkroller.nl
+ Template:     nirvana
+ Version:      1.0.2
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  hatogkroller
+*/
+
+body {
+
+}
+
+.fb-like{
+margin:20px auto!important;
+width:450px;    
+}
+
+@media (max-width: 800px) {
+	#bg_image {
+    width: 1200px!important;
+}
+
+.imagebox .logoimage {
+	position:absolute;
+	left:0px;
+}
